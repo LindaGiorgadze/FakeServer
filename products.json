@@ -21,7 +21,7 @@
         {
             "id": 2,
             "Category": "Hygiene",
-            "subCategory": "Hair Vitamins",
+            "subCategory": "Shampoo",
             "title": "Title 1",
             "img": "https://www.fda.gov/files/Drugs-Img-Drug-Information-Find-Information-Drugs-at-FDA-Mixed-Pills-Table-1600x900.png",
             "price": 35,
@@ -39,7 +39,7 @@
         {
             "id": 3,
             "Category": "Drugs",
-            "subCategory": "Hair Vitamins",
+            "subCategory": "Analgesic",
             "title": "Title 1",
             "img": "https://www.fda.gov/files/Drugs-Img-Drug-Information-Find-Information-Drugs-at-FDA-Mixed-Pills-Table-1600x900.png",
             "price": 35,
