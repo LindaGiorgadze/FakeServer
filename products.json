@@ -16,7 +16,10 @@
             "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
             "pharmacies": [
                 1, 2, 3, 6, 8, 10, 33, 52, 55
-            ]
+            ],
+            "new": true,
+            "popular": true,
+            "essential": true
         },
         {
             "id": 2,
@@ -34,12 +37,15 @@
             "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
             "pharmacies": [
                 1, 2, 3, 6, 8, 10, 33, 52, 55
-            ]
+            ],
+            "new": true,
+            "popular": true,
+            "essential": true
         },
         {
             "id": 3,
             "Category": "Make Up",
-            "subCategory": "Analgesic",
+            "subCategory": "antiodontalgic",
             "title": "Title 1",
             "img": "https://www.fda.gov/files/Drugs-Img-Drug-Information-Find-Information-Drugs-at-FDA-Mixed-Pills-Table-1600x900.png",
             "price": 35,
@@ -52,12 +58,15 @@
             "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
             "pharmacies": [
                 1, 2, 3, 6, 8, 10, 33, 52, 55
-            ]
+            ],
+            "new": true,
+            "popular": true,
+            "essential": true
         },
         {
             "id": 4,
             "Category": "Hair Care",
-            "subCategory": "Analgesic",
+            "subCategory": "antiodontalgic",
             "title": "Title 1",
             "img": "https://www.fda.gov/files/Drugs-Img-Drug-Information-Find-Information-Drugs-at-FDA-Mixed-Pills-Table-1600x900.png",
             "price": 35,
@@ -70,7 +79,10 @@
             "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
             "pharmacies": [
                 1, 2, 3, 6, 8, 10, 33, 52, 55
-            ]
+            ],
+            "new": true,
+            "popular": true,
+            "essential": true
         },
         {
             "id": 5,
@@ -88,12 +100,15 @@
             "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
             "pharmacies": [
                 1, 2, 3, 6, 8, 10, 33, 52, 55
-            ]
+            ],
+            "new": true,
+            "popular": true,
+            "essential": true
         },
         {
             "id": 6,
             "Category": "Mother and Child",
-            "subCategory": "Analgesic",
+            "subCategory": "antiodontalgic",
             "title": "Title 1",
             "img": "https://www.fda.gov/files/Drugs-Img-Drug-Information-Find-Information-Drugs-at-FDA-Mixed-Pills-Table-1600x900.png",
             "price": 35,
@@ -106,7 +121,10 @@
             "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
             "pharmacies": [
                 1, 2, 3, 6, 8, 10, 33, 52, 55
-            ]
+            ],
+            "new": true,
+            "popular": false,
+            "essential": false
         },
         {
             "id": 7,
@@ -124,7 +142,10 @@
             "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
             "pharmacies": [
                 1, 2, 3, 6, 8, 10, 33, 52, 55
-            ]
+            ],
+            "new": false,
+            "popular": true,
+            "essential": true
         },
         {
             "id": 8,
@@ -142,12 +163,15 @@
             "usage": "",
             "pharmacies": [
                 1, 2, 3, 6, 8, 10, 33, 52, 55
-            ]
+            ],
+            "new": true,
+            "popular": false,
+            "essential": true
         },
         {
             "id": 9,
             "Category": "Mother and Child",
-            "subCategory": "Analgesic",
+            "subCategory": "febricide",
             "title": "Title 1",
             "img": "https://www.fda.gov/files/Drugs-Img-Drug-Information-Find-Information-Drugs-at-FDA-Mixed-Pills-Table-1600x900.png",
             "price": 35,
@@ -160,12 +184,15 @@
             "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
             "pharmacies": [
                 1, 2, 3, 6, 8, 10, 33, 52, 55
-            ]
+            ],
+            "new": false,
+            "popular": true,
+            "essential": false
         },
         {
             "id": 10,
             "Category": "Mother and Child",
-            "subCategory": "Analgesic",
+            "subCategory": "febricide",
             "title": "Title 1",
             "img": "https://www.fda.gov/files/Drugs-Img-Drug-Information-Find-Information-Drugs-at-FDA-Mixed-Pills-Table-1600x900.png",
             "price": 35,
@@ -178,12 +205,15 @@
             "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
             "pharmacies": [
                 1, 2, 3, 6, 8, 10, 33, 52, 55
-            ]
+            ],
+            "new": false,
+            "popular": true,
+            "essential": true
         },
         {
             "id": 11,
             "Category": "Mother and Child",
-            "subCategory": "Analgesic",
+            "subCategory": "febricide",
             "title": "Title 1",
             "img": "https://www.fda.gov/files/Drugs-Img-Drug-Information-Find-Information-Drugs-at-FDA-Mixed-Pills-Table-1600x900.png",
             "price": 35,
@@ -196,12 +226,15 @@
             "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
             "pharmacies": [
                 1, 2, 3, 6, 8, 10, 33, 52, 55
-            ]
+            ],
+            "new": true,
+            "popular": false,
+            "essential": true
         },
         {
             "id": 12,
             "Category": "Mother and Child",
-            "subCategory": "Analgesic",
+            "subCategory": "febricide",
             "title": "Title 1",
             "img": "https://www.fda.gov/files/Drugs-Img-Drug-Information-Find-Information-Drugs-at-FDA-Mixed-Pills-Table-1600x900.png",
             "price": 35,
@@ -214,12 +247,15 @@
             "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
             "pharmacies": [
                 1, 2, 3, 6, 8, 10, 33, 52, 55
-            ]
+            ],
+            "new": true,
+            "popular": true,
+            "essential": false
         },
         {
             "id": 13,
             "Category": "Mother and Child",
-            "subCategory": "Analgesic",
+            "subCategory": "febricide",
             "title": "Title 1",
             "img": "https://www.fda.gov/files/Drugs-Img-Drug-Information-Find-Information-Drugs-at-FDA-Mixed-Pills-Table-1600x900.png",
             "price": 35,
@@ -232,12 +268,15 @@
             "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
             "pharmacies": [
                 1, 2, 3, 6, 8, 10, 33, 52, 55
-            ]
+            ],
+            "new": false,
+            "popular": true,
+            "essential": true
         },
         {
             "id": 14,
             "Category": "Mother and Child",
-            "subCategory": "Analgesic",
+            "subCategory": "febricide",
             "title": "Title 1",
             "img": "https://www.fda.gov/files/Drugs-Img-Drug-Information-Find-Information-Drugs-at-FDA-Mixed-Pills-Table-1600x900.png",
             "price": 35,
@@ -250,12 +289,15 @@
             "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
             "pharmacies": [
                 1, 2, 3, 6, 8, 10, 33, 52, 55
-            ]
+            ],
+            "new": false,
+            "popular": false,
+            "essential": false
         },
         {
             "id": 15,
             "Category": "Mother and Child",
-            "subCategory": "Analgesic",
+            "subCategory": "Essential Oils",
             "title": "Title 1",
             "img": "https://www.fda.gov/files/Drugs-Img-Drug-Information-Find-Information-Drugs-at-FDA-Mixed-Pills-Table-1600x900.png",
             "price": 35,
@@ -268,12 +310,15 @@
             "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
             "pharmacies": [
                 1, 2, 3, 6, 8, 10, 33, 52, 55
-            ]
+            ],
+            "new": true,
+            "popular": false,
+            "essential": true
         },
         {
             "id": 16,
             "Category": "Mother and Child",
-            "subCategory": "Analgesic",
+            "subCategory": "Essential Oils",
             "title": "Title 1",
             "img": "https://www.fda.gov/files/Drugs-Img-Drug-Information-Find-Information-Drugs-at-FDA-Mixed-Pills-Table-1600x900.png",
             "price": 35,
@@ -286,7 +331,10 @@
             "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
             "pharmacies": [
                 1, 2, 3, 6, 8, 10, 33, 52, 55
-            ]
+            ],
+            "new": false,
+            "popular": false,
+            "essential": false
         }
     ]
 }
