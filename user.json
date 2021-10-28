@@ -1,0 +1,23 @@
+{
+    "Users":[
+        {
+            "username": "Linda",
+            "password": "password",
+            "name": "Linda",
+            "surname": "Giorgadze",
+            "address": "Fake Address",
+            "phoneNumber": 555555555,
+            "email": "example@gmail.com",
+            "birthday": {
+                "day": 02,
+                "month": 04,
+                "year": 1997
+            },
+            "image": "https://scontent.ftbs5-3.fna.fbcdn.net/v/t1.6435-9/241159574_4295194457242868_1208369344094537648_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=7D4CxK2oVLkAX-dLPrx&_nc_oc=AQl-tWZHvnlsIibaCgguAT6UvNk5mQ_QImqvPKJr7CP2uRHAxqTWnLLW-7JA7_YtVFM&tn=khbNf2MA5TCMynPV&_nc_ht=scontent.ftbs5-3.fna&oh=b892ecd2fa8145986fdbd7bb521bc5bf&oe=619ED08B",
+            "interestField": [
+                "მედიკამენტები",
+                "კოსმეტიკა"
+            ]
+        }
+    ]
+}
